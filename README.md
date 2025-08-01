@@ -38,3 +38,4 @@ Rth (from datasheet) = 380 ohms
 - Feedback Low-pass filter frequency = 1/2πRC = 1/2π × 300k × 27pF = 19.6 kHz  
 - Input common-mode filter = 1/2πRC = 1/2π × 10k × 1μF = 15.9 Hz
 
+![image alt](https://github.com/anushkab3611/Analog-IC-Design/blob/0090f26d6524f8658590501e71cb4b5e39c63503/circuit/Fig-d2-1-mic-analysis.png)
