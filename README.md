@@ -45,11 +45,14 @@ Rth (from datasheet) = 380 ohms
     ![image alt](https://github.com/anushkab3611/Analog-IC-Design/blob/dde0bea93ee86a8eab4da7a92f3564bf57c3da69/circuit/Screenshot%202025-06-07%20124834.png)
     ![image alt](https://github.com/anushkab3611/Analog-IC-Design/blob/dde0bea93ee86a8eab4da7a92f3564bf57c3da69/circuit/Screenshot%202025-08-01%20235421.png)
 
-- 2. NMOS Operational Amplifier
+  2. High-Pass
+     ![image alt](https://github.com/anushkab3611/Analog-IC-Design/blob/c02c70cba02b17b9dac7e7a6b58fb19e7307ec26/circuit/i4.jpg)
+
+- 3. NMOS Operational Amplifier
      ![image alt](https://github.com/anushkab3611/Analog-IC-Design/blob/6f0d4ebe593d41c599fb661c343742e83f8267b5/circuit/i5.png)
      
-- 3. Current Mirrir
+- 4. Current Mirrir
       ![image alt](https://github.com/anushkab3611/Analog-IC-Design/blob/1805412012266b738e2532b9a83647dcc27e7765/circuit/i6.png)
 
-- 4. Mictest
+- 5. Mictest
       ![image alt](https://github.com/anushkab3611/Analog-IC-Design/blob/e401c1010fd24cbb5f9e1a9da75ef9011ea3a3c1/circuit/i7.png)          
