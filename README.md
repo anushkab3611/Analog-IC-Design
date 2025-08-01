@@ -1,5 +1,6 @@
 # Analog-IC-Design
-This project contains the design, simulation, and analysis of an interface circuit for a MEMS microphone:
+
+This repository contain the design,simulation and analysi of an interface circuit for a MEMS microphone,developed during an internship on Analog IC Design.The project involved::
 
 - Modeling the MEMS microphone with a Thevenin equivalent.
 - Design, simulation, and circuit characterization of a low-noise Op-Amp preamplifier (TI OPA344 reference) using ngspice.
