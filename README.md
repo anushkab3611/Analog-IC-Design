@@ -10,4 +10,6 @@ This repository contain the design,simulation and analysi of an interface circui
 - Analog building block design/analysis: current mirrors, differential amplifiers, and MOS characteristics.
 - Complete system simulation and robust USB-MIDI audio characterization.
 
+- 
+![image alt](https://github.com/anushkab3611/Analog-IC-Design/blob/31e1efe007e80781c36d9283a420e5e063e4862f/circuit/Fig-d1-1-USBmic.png)
 
