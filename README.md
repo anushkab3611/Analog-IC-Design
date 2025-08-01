@@ -40,8 +40,16 @@ Rth (from datasheet) = 380 ohms
 
 ![image alt](https://github.com/anushkab3611/Analog-IC-Design/blob/0090f26d6524f8658590501e71cb4b5e39c63503/circuit/Fig-d2-1-mic-analysis.png)
 
-# Thevenin Equivalent model of the microphone
-![image alt](https://github.com/anushkab3611/Analog-IC-Design/blob/dde0bea93ee86a8eab4da7a92f3564bf57c3da69/circuit/Screenshot%202025-06-07%20124834.png)
-![image alt](https://github.com/anushkab3611/Analog-IC-Design/blob/dde0bea93ee86a8eab4da7a92f3564bf57c3da69/circuit/Screenshot%202025-08-01%20235421.png)
+# XSCHEM SIMULATIONS
+- 1.Thevenin Equivalent model of the microphone
+    ![image alt](https://github.com/anushkab3611/Analog-IC-Design/blob/dde0bea93ee86a8eab4da7a92f3564bf57c3da69/circuit/Screenshot%202025-06-07%20124834.png)
+    ![image alt](https://github.com/anushkab3611/Analog-IC-Design/blob/dde0bea93ee86a8eab4da7a92f3564bf57c3da69/circuit/Screenshot%202025-08-01%20235421.png)
 
-#High-Pass filter
+- 2. NMOS Operational Amplifier
+     ![image alt](https://github.com/anushkab3611/Analog-IC-Design/blob/6f0d4ebe593d41c599fb661c343742e83f8267b5/circuit/i5.png)
+     
+- 3. Current Mirrir
+      ![image alt](https://github.com/anushkab3611/Analog-IC-Design/blob/1805412012266b738e2532b9a83647dcc27e7765/circuit/i6.png)
+
+- 4. Mictest
+      ![image alt](https://github.com/anushkab3611/Analog-IC-Design/blob/e401c1010fd24cbb5f9e1a9da75ef9011ea3a3c1/circuit/i7.png)          
