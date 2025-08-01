@@ -43,3 +43,5 @@ Rth (from datasheet) = 380 ohms
 # Thevenin Equivalent model of the microphone
 ![image alt](https://github.com/anushkab3611/Analog-IC-Design/blob/dde0bea93ee86a8eab4da7a92f3564bf57c3da69/circuit/Screenshot%202025-06-07%20124834.png)
 ![image alt](https://github.com/anushkab3611/Analog-IC-Design/blob/dde0bea93ee86a8eab4da7a92f3564bf57c3da69/circuit/Screenshot%202025-08-01%20235421.png)
+
+#High-Pass filter
