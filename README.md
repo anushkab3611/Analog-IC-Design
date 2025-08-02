@@ -13,6 +13,9 @@ This repository contain the design,simulation and analysi of an interface circui
   
 ## USB Microphone System
 ![image alt](https://github.com/anushkab3611/Analog-IC-Design/blob/31e1efe007e80781c36d9283a420e5e063e4862f/circuit/Fig-d1-1-USBmic.png)
+<img src="circuit/Fig-d1-1-USBmic.png" width="500"/>
+
+
 
 [MEMS capacitive microphone datasheet](https://cdn.sparkfun.com/assets/0/5/8/b/1/SPH8878LR5H-1_Lovato_DS.pdf)
 ## Thevenin equivalent model calculation
