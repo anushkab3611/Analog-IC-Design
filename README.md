@@ -74,4 +74,11 @@ Rth (from datasheet) = 380 ohms
   
    ![image alt](https://github.com/anushkab3611/Analog-IC-Design/blob/30ef296164e87d446379c1f2d41205243977e5aa/circuit/i1.jpg)
 
+  ## *2.Transient experiment: rise, fall, delay, time period*
+  ![image alt](https://github.com/anushkab3611/Analog-IC-Design/blob/c5da3a334357e382d0bf45a5942ce55a2fbcf37a/circuit/i8.png)
+
+  ## *Diode experiment*
+   ![image alt](https://github.com/anushkab3611/Analog-IC-Design/blob/c5da3a334357e382d0bf45a5942ce55a2fbcf37a/circuit/i10.png)
+    
+
    
