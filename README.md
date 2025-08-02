@@ -93,12 +93,12 @@ Rth (from datasheet) = 380 ohms
   <img src="circuit/i8.png" width="600"/>
 
 
-  ## *Diode experiment*
+  ## *3.Diode experiment*
   
    <img src="circuit/i10.png" width="600"/>
 
     
 ## MAGIC
-## *CMOS Inverter*
+## *1.CMOS Inverter*
   <img src="circuit/i11.png" width="600"/>
    
