@@ -12,8 +12,7 @@ This repository contain the design,simulation and analysi of an interface circui
 
   
 ## USB Microphone System
-![image alt](https://github.com/anushkab3611/Analog-IC-Design/blob/31e1efe007e80781c36d9283a420e5e063e4862f/circuit/Fig-d1-1-USBmic.png)
-<img src="circuit/Fig-d1-1-USBmic.png" width="500"/>
+<img src="circuit/Fig-d1-1-USBmic.png" width="600"/>
 
 
 
@@ -42,32 +41,45 @@ Rth (from datasheet) = 380 ohms
 - Input common-mode filter = 1/2πRC = 1/2π × 10k × 1μF = 15.9 Hz
 
 ![image alt](https://github.com/anushkab3611/Analog-IC-Design/blob/0090f26d6524f8658590501e71cb4b5e39c63503/circuit/Fig-d2-1-mic-analysis.png)
+<img src="circuit/Fig-d2-1-mic-analysis.png" width="600"/>
 
 ## XSCHEM SIMULATIONS
    ## *1.Thevenin Equivalent model of the microphone*
 
    ![image alt](https://github.com/anushkab3611/Analog-IC-Design/blob/dde0bea93ee86a8eab4da7a92f3564bf57c3da69/circuit/Screenshot%202025-06-07%20124834.png)
+   <img src="circuit/Screenshot%202025-06-07%20124834.png" width="600"/>
+
    ![image alt](https://github.com/anushkab3611/Analog-IC-Design/blob/dde0bea93ee86a8eab4da7a92f3564bf57c3da69/circuit/Screenshot%202025-08-01%20235421.png)
+   <img src="circuit/Screenshot%202025-08-01%20235421.png" width="600"/>
+
 
    
    ## *2.High-Pass*
 
    ![image alt](https://github.com/anushkab3611/Analog-IC-Design/blob/c02c70cba02b17b9dac7e7a6b58fb19e7307ec26/circuit/i4.jpg)
+   <img src="circuit/i4.jpg" width="600"/>
+
     
 
   ## *3.NMOS Operational Amplifier*
 
    ![image alt](https://github.com/anushkab3611/Analog-IC-Design/blob/6f0d4ebe593d41c599fb661c343742e83f8267b5/circuit/i5.png)
+   <img src="circuit/i5.png" width="600"/>
+
      
    
   ## *4.Current Mirror*
 
   ![image alt](https://github.com/anushkab3611/Analog-IC-Design/blob/1805412012266b738e2532b9a83647dcc27e7765/circuit/i6.png)
+  <img src="circuit/i6.png" width="600"/>
+
      
 
   ## *5.Mictest*
  
-   ![image alt](https://github.com/anushkab3611/Analog-IC-Design/blob/e401c1010fd24cbb5f9e1a9da75ef9011ea3a3c1/circuit/i7.png)   
+   ![image alt](https://github.com/anushkab3611/Analog-IC-Design/blob/e401c1010fd24cbb5f9e1a9da75ef9011ea3a3c1/circuit/i7.png)  
+   <img src="circuit/i7.png" width="600"/>
+
 
 
    
@@ -76,12 +88,18 @@ Rth (from datasheet) = 380 ohms
   ## *1.Simple-high pass filter*
   
    ![image alt](https://github.com/anushkab3611/Analog-IC-Design/blob/30ef296164e87d446379c1f2d41205243977e5aa/circuit/i1.jpg)
+   <img src="circuit/i1.jpg" width="600"/>
+
 
   ## *2.Transient experiment: rise, fall, delay, time period*
   ![image alt](https://github.com/anushkab3611/Analog-IC-Design/blob/c5da3a334357e382d0bf45a5942ce55a2fbcf37a/circuit/i8.png)
+  <img src="circuit/i8.png" width="600"/>
+
 
   ## *Diode experiment*
    ![image alt](https://github.com/anushkab3611/Analog-IC-Design/blob/c5da3a334357e382d0bf45a5942ce55a2fbcf37a/circuit/i10.png)
+   <img src="circuit/i10.png" width="600"/>
+
     
 
    
