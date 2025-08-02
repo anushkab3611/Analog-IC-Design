@@ -98,5 +98,7 @@ Rth (from datasheet) = 380 ohms
    <img src="circuit/i10.png" width="600"/>
 
     
-
+## MAGIC
+## *CMOS Inverter*
+  <img src="circuit/i11.png" width="600"/>
    
