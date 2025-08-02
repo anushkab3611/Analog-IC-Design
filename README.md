@@ -41,7 +41,7 @@ Rth (from datasheet) = 380 ohms
 - Input common-mode filter = 1/2πRC = 1/2π × 10k × 1μF = 15.9 Hz
 
 
-<img src="circuit/Fig-d2-1-mic-analysis.png" width="600"/>
+<img src="circuit/Fig-d2-1-mic-analysis.png" length="500" width="600"/>
 
 ## XSCHEM SIMULATIONS
    ## *1.Thevenin Equivalent model of the microphone*
